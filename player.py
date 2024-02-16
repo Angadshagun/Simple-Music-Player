@@ -5,7 +5,7 @@ from tkinter import filedialog
 from pygame import mixer
 
 root = Tk()
-root.title("Simpli Music Player")
+root.title("Beatify")
 root.geometry("485x700+290+10")
 root.configure(background='#333333')
 root.resizable(False, False)
